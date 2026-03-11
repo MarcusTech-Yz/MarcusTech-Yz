@@ -82,6 +82,8 @@ Meu objetivo é evoluir continuamente minhas habilidades de engenharia enquanto 
 
 <img src="https://skillicons.dev/icons?i=mongo" />
 <img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=postgres" />
 <br><br>
 
 ### Ferramentas
@@ -89,7 +91,7 @@ Meu objetivo é evoluir continuamente minhas habilidades de engenharia enquanto 
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=npm" />
-
+<img src="https://skillicons.dev/icons?i=vscode" />
 </div>
 <div align="center">
 
