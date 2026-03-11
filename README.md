@@ -7,10 +7,9 @@
 </div>
 
 ---
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## Sobre mim
 
@@ -24,7 +23,7 @@ Meu objetivo é evoluir continuamente minhas habilidades de engenharia enquanto 
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## Foco Atual
 
@@ -97,7 +96,7 @@ Meu objetivo é evoluir continuamente minhas habilidades de engenharia enquanto 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## Projetos em Destaque
 
@@ -112,7 +111,7 @@ Desenvolvimento de APIs RESTful para integração de sistemas web.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## Áreas de Interesse
 
@@ -125,7 +124,6 @@ Desenvolvimento de APIs RESTful para integração de sistemas web.
 </td>
 </tr>
 </table>
-
 ---
 
 <div align="center">
