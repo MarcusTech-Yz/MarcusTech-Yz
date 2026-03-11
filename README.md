@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Marcus%20Vinícius&fontColor=ffffff&fontSize=45"/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Programação+em+Robótica;Java+%7C+Python+%7C+JavaScript;React+%7C+Node+%7C+MongoDB;Sempre+aprendendo+novas+tecnologias" />
@@ -42,7 +41,7 @@ Meu objetivo é evoluir continuamente minhas habilidades de engenharia enquanto 
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcusTech-Yz&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusTech-Yz&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusTech-Yz&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
@@ -128,7 +127,7 @@ Desenvolvimento de APIs RESTful para integração de sistemas web.
 
 <div align="center">
 
-
+---
 
 <div align="center">
 
