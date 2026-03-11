@@ -8,33 +8,48 @@
 
 ---
 
+<table>
+<tr>
+<td width="50%">
+
 ## Sobre mim
 
-Sou estudante de desenvolvimento de software com foco na construção de sistemas backend, software  e ferramentas de análise de dados.
+Sou estudante de desenvolvimento de software com foco na construção de sistemas backend, software e ferramentas de análise de dados.
 
-Gosto de desenvolver soluções práticas envolvendo automação, APIs e processamento de dados.  
+Gosto de desenvolver soluções práticas envolvendo automação, APIs e processamento de dados.
+
 Atualmente participo de projetos relacionados à programação de robôs e desenvolvimento de sistemas utilizados em competições e projetos técnicos.
 
 Meu objetivo é evoluir continuamente minhas habilidades de engenharia enquanto construo projetos bem estruturados.
 
----
+</td>
+
+<td width="50%">
 
 ## Foco Atual
 
-- Desenvolvimento de software 
-- Sistemas backend e APIs
-- Ferramentas de coleta e análise de dados
-- Automação com TypeScript / JavaScript
+- Desenvolvimento de software  
+- Sistemas backend e APIs  
+- Ferramentas de coleta e análise de dados  
+- Automação com TypeScript / JavaScript  
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcusTech-Yz&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusTech-Yz&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff"/>
+</div>
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusTech-Yz&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff"/>
 
 </div>
 
@@ -80,16 +95,36 @@ Meu objetivo é evoluir continuamente minhas habilidades de engenharia enquanto 
 
 ---
 
+<table>
+<tr>
+<td width="50%">
+
 ## Projetos em Destaque
 
-**Sistema de Scouting para FRC**  
+### Sistema de Scouting para FRC
 Plataforma de coleta e análise de dados utilizada para avaliar equipes de robótica durante competições.
 
-**Programação de Swerve Drive**  
-Experimentos e desenvolvimento relacionados ao controle de drivetrain swerve utilizando WPILib.
+### Programação de Swerve Drive
+Experimentos relacionados ao controle de drivetrain swerve utilizando WPILib.
 
-**Criação de APIS com Node JS**  
-Desenvolvimento de APIs RESTful utilizando Node.js para integração de sistemas web
+### Criação de APIs com Node.js
+Desenvolvimento de APIs RESTful para integração de sistemas web.
+
+</td>
+
+<td width="50%">
+
+## Áreas de Interesse
+
+- Robótica educacional
+- Sistemas backend
+- Automação de dados
+- Engenharia de software
+- Desenvolvimento web
+
+</td>
+</tr>
+</table>
 
 ---
 
