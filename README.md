@@ -94,10 +94,12 @@ Meu objetivo é evoluir continuamente minhas habilidades de engenharia enquanto 
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
+---
+
+<div align="center">
+
+---
 
 <div align="center">
 
