@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Marcus%20Vinícius&fontColor=ffffff&fontSize=45"/>
 
@@ -97,37 +98,6 @@ Meu objetivo é evoluir continuamente minhas habilidades de engenharia enquanto 
 <tr>
 <td width="50%" valign="top">
 
-## Projetos em Destaque
-
-### Sistema de Scouting para FRC
-Plataforma de coleta e análise de dados utilizada para avaliar equipes de robótica durante competições.
-
-### Programação de Swerve Drive
-Experimentos relacionados ao controle de drivetrain swerve utilizando WPILib.
-
-### Criação de APIs com Node.js
-Desenvolvimento de APIs RESTful para integração de sistemas web.
-
-</td>
-
-<td width="50%" valign="top">
-
-## Áreas de Interesse
-
-- Robótica educacional
-- Sistemas backend
-- Automação de dados
-- Engenharia de software
-- Desenvolvimento web
-
-</td>
-</tr>
-</table>
----
-
-<div align="center">
-
----
 
 <div align="center">
 
