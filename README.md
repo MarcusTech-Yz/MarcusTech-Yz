@@ -128,16 +128,14 @@ Desenvolvimento de APIs RESTful para integração de sistemas web.
 
 <div align="center">
 
-## Gráfico de Contribuições
+---
 
-<picture>
+<div align="center">
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviFSilva/DaviFSilva/output/github-contribution-grid-snake-dark.svg">
+## Contato
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaviFSilva/DaviFSilva/output/github-contribution-grid-snake.svg">
-
-<img alt="animação da cobra nas contribuições do github" src="https://raw.githubusercontent.com/DaviFSilva/DaviFSilva/output/github-contribution-grid-snake.svg">
-
-</picture>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markusvinicius2009@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](SEU_SITE)
 
 </div>
