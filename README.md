@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Marcus%20Vinícius&fontColor=ffffff&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Marcus%20Vinícius&fontColor=ffffff&fontSize=45"/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Programação+em+Robótica;Java+%7C+Python+%7C+JavaScript;React+%7C+Node+%7C+MongoDB;Sempre+aprendendo+novas+tecnologias" />
 
