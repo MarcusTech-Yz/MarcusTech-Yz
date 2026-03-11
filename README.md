@@ -92,10 +92,6 @@ Meu objetivo é evoluir continuamente minhas habilidades de engenharia enquanto 
 
 </div>
 
----
-
-
----
 
 <div align="center">
 
